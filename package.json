@@ -1,0 +1,15 @@
+{
+  "name": "rnr-vehicle-fitment-tool",
+  "version": "1.0.0",
+  "description": "RNR Tire Vehicle Fitment Tool with OpenAI Integration",
+  "main": "index.html",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "netlify-cli": "^15.0.2"
+  }
+}
